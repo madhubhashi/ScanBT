@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252778774360",
+    "firebase_url": "https://scanbt-e0147.firebaseio.com",
+    "project_id": "scanbt-e0147",
+    "storage_bucket": "scanbt-e0147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252778774360:android:59ef6397e5c7ce68a3af2d",
+        "android_client_info": {
+          "package_name": "com.pontoon.scanbt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252778774360-ob9k5nf7fq5n6ojcvofb2vbvq6j2te7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLZj3xR7Ol0MGy4e9ml9nXCDtJTc4R_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252778774360-ob9k5nf7fq5n6ojcvofb2vbvq6j2te7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

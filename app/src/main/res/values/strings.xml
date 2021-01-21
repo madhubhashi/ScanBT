@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScanBT</string>
+    <string name="hello" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="submit">Keep the Bluetooth device that you are going to scan with some distance to your device</string>
+</resources>
